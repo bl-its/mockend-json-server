@@ -1,5 +1,5 @@
 {
   "User": {
-    "title": { "string": "MyFirst mock up json server." }
+    "title": { "string": {} }
   }
 }
